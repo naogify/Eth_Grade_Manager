@@ -4,7 +4,7 @@ This is the example from [A Beginner’s Guide to Blockchain Programming](https:
 written by [Febin John James](https://twitter.com/heyfebin).
 
 ## Getting started
-1.Install dependencies. (ganache-cli)[https://github.com/trufflesuite/ganache-cli]、(web3.js)[https://github.com/ethereum/web3.js/]、(solc)[https://www.npmjs.com/package/solc]
+1.Install dependencies. [ganache-cli](https://github.com/trufflesuite/ganache-cli)、(web3.js)[https://github.com/ethereum/web3.js/]、(solc)[https://www.npmjs.com/package/solc]
     
     $ npm install
     $ node_modules/.bin/ganache-cli
